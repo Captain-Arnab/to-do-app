@@ -11,8 +11,7 @@ This is a simple To-do List application built using Vue.js for the frontend, Nod
   - [Frontend Setup](#frontend-setup)
 - [Running the Application](#running-the-application)
 - [Testing the Application](#testing-the-application)
-- [Contributing](#contributing)
-- [License](#license)
+- [Testing the API](#testing-api)
 
 ## Features
 
@@ -89,3 +88,7 @@ Deleting a Task:</li>
 
 <li>Click the Delete button to remove a task from the list.</li>
 </ul>
+
+### Testing the API
+
+By running the command : ```http://localhost:5000/api/tasks```
