@@ -77,7 +77,6 @@ The application will be available at ```http://localhost:8080```
 
 ### Testing the Application
 
-##Adding a Task:
 <ul>
 <li>Enter a title and description in the form and click Add Task.
 Viewing Tasks:</li>
